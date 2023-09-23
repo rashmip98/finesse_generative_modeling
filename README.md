@@ -2,12 +2,12 @@
 
 ## Repository Structure
 |-- data  
-|       &msp;&msp;      |-- images  
-|	 &msp;&msp;  |-- product_data.json  
-|	 &msp;&msp;  |-- prod_embeddings.npz  
-|	 &msp;&msp;  |-- prod_title_map.json  
-|	 &msp;&msp;  |-- vocab.txt  
-|	 &msp;&msp;  |-- data_utils.py  
+|       &emsp;&emsp;      |-- images  
+|	 &emsp;&emsp;  |-- product_data.json  
+|	 &emsp;&emsp;  |-- prod_embeddings.npz  
+|	 &emsp;&emsp;  |-- prod_title_map.json  
+|	 &emsp;&emsp;  |-- vocab.txt  
+|	 &emsp;&emsp;  |-- data_utils.py  
 |-- model.py  
 |-- dataset.py  
 |-- train.py  
