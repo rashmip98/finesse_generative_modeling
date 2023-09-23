@@ -12,9 +12,6 @@ train:
   adv_wt: 0.05
   noise_size: 100
 
-model:
-  
-
 device: "cuda:0"
 
 data:
